@@ -6,5 +6,7 @@ otra solo para corroborar.
 
 Master 1
 
+Master 2
+
 Esta es otra línea para revisar un cambio
 Agregado por Discite
