@@ -8,6 +8,8 @@ En este curso vemos de todo:
 * El flujo de trabajo
 * Buenas practicas1.
 
+Cambiado para Cherry Pick.
+
 Tenemos el ejemplo de la liga:
 [Liga][1]
 
