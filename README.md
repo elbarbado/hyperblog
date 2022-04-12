@@ -9,6 +9,7 @@ En este curso vemos de todo:
 * Buenas practicas1.
 
 Cambiado para Cherry Pick.
+Incluyendo algunas cosas distintas.
 
 Tenemos el ejemplo de la liga:
 [Liga][1]
