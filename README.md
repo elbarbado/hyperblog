@@ -13,7 +13,7 @@ Incluyendo algunas cosas distintas.
 Disponible para todas las edades. 
 Para cherry.
 Solucion??
-
+Ejemplos de linux, windows y mac
 
 Tenemos el ejemplo de la liga:
 [Liga][1]
