@@ -11,6 +11,7 @@ En este curso vemos de todo:
 Cambiado para Cherry Pick.
 Incluyendo algunas cosas distintas.
 Disponible para todas las edades. 
+Para cherry.
 
 Tenemos el ejemplo de la liga:
 [Liga][1]
